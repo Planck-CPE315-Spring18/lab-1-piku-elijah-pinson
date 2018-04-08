@@ -1,6 +1,7 @@
 # CPE 315 Lab 1 -- Piku
 
 * Elijah Pinson
+	* Nickname: Eli
 
 * Status:
 	* Complete
